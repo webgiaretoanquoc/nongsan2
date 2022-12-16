@@ -1,0 +1,1120 @@
+Uri: https://fonts.googleapis.com/css?family=Roboto+Condensed:regular%2C700%2Cregular|Roboto:regular%2Cregular|Pattaya:regular%2Cregular&display=swap&ver=3.9
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/pattaya/v12/ea8ZadcqV_zkHY-XBdet8w.ttf
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\s\pattaya\v12\ea8ZadcqV_zkHY-XBdet8w.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v25/ieVi2ZhZI2eCN5jzbjEETS9weq8-32meGCQYag.ttf
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\s\robotocondensed\v25\ieVi2ZhZI2eCN5jzbjEETS9weq8-32meGCQYag.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v25/ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7CA.ttf
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\s\robotocondensed\v25\ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7CA.ttf
+Content Type: font/ttf
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fnongsan2.webtudong8giay.com%252Feat-clean-bi-kip-de-co-than-hinh-xinh-nhu-mo-cua-co-nang-9x%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\login-4.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fnongsan2.webtudong8giay.com%252Fky-thuat-trong-rau-sach-trong-chau-xop-tai-nha-don-gian%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fnongsan2.webtudong8giay.com%252Flay-lai-vong-eo-con-kien-nho-cong-thuc-don-gian-tu-cu-dau-va-rau-cai%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\login-5.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fnongsan2.webtudong8giay.com%252Fmat-ong-rung-da-lat-giup-ban-lam-dep-the-nao%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\login-6.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fnongsan2.webtudong8giay.com%252Fsan-pham%252Fca-chua-da-lat%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fnongsan2.webtudong8giay.com%252Fsan-pham%252Ftao-nhap-khau%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fnongsan2.webtudong8giay.com%252Fsan-pham%252Fvai-nhap-khau%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://nongsan2.webtudong8giay.com/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\index.htm
+Content Type: text/html
+
+Uri: https://nongsan2.webtudong8giay.com/?add-to-cart=762
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\index-3.htm
+Content Type: text/html
+
+Uri: https://nongsan2.webtudong8giay.com/?add-to-cart=766
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\index-2.htm
+Content Type: text/html
+
+Uri: https://nongsan2.webtudong8giay.com/?add-to-cart=770
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\index-1.htm
+Content Type: text/html
+
+Uri: https://nongsan2.webtudong8giay.com/?add-to-cart=82
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\index-4.htm
+Content Type: text/html
+
+Uri: https://nongsan2.webtudong8giay.com/author/admin/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\author\admin\index.htm
+Content Type: text/html
+
+Uri: https://nongsan2.webtudong8giay.com/author/admin/feed/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\author\admin\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nongsan2.webtudong8giay.com/category/khong-phan-loai/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\category\khong-phan-loai\index.htm
+Content Type: text/html
+
+Uri: https://nongsan2.webtudong8giay.com/category/khong-phan-loai/feed/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\category\khong-phan-loai\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nongsan2.webtudong8giay.com/category/lam-dep/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\category\lam-dep\index.htm
+Content Type: text/html
+
+Uri: https://nongsan2.webtudong8giay.com/category/lam-dep/feed/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\category\lam-dep\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nongsan2.webtudong8giay.com/category/tin-tuc/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\category\tin-tuc\index.htm
+Content Type: text/html
+
+Uri: https://nongsan2.webtudong8giay.com/category/tin-tuc/feed/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\category\tin-tuc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nongsan2.webtudong8giay.com/comments/feed/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nongsan2.webtudong8giay.com/danh-muc/cac-loai-hat-dinh-duong/hanh-nhan/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\danh-muc\cac-loai-hat-dinh-duong\hanh-nhan\index.htm
+Content Type: text/html
+
+Uri: https://nongsan2.webtudong8giay.com/danh-muc/cac-loai-hat-dinh-duong/hanh-nhan/feed/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\danh-muc\cac-loai-hat-dinh-duong\hanh-nhan\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nongsan2.webtudong8giay.com/danh-muc/cac-loai-hat-dinh-duong/macca/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\danh-muc\cac-loai-hat-dinh-duong\macca\index.htm
+Content Type: text/html
+
+Uri: https://nongsan2.webtudong8giay.com/danh-muc/cac-loai-hat-dinh-duong/macca/feed/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\danh-muc\cac-loai-hat-dinh-duong\macca\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nongsan2.webtudong8giay.com/danh-muc/cac-loai-hat-dinh-duong/oc-cho/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\danh-muc\cac-loai-hat-dinh-duong\oc-cho\index.htm
+Content Type: text/html
+
+Uri: https://nongsan2.webtudong8giay.com/danh-muc/cac-loai-hat-dinh-duong/oc-cho/feed/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\danh-muc\cac-loai-hat-dinh-duong\oc-cho\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nongsan2.webtudong8giay.com/danh-muc/cac-loai-rau-cu-qua-oragnic/ca-chua/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\danh-muc\cac-loai-rau-cu-qua-oragnic\ca-chua\index.htm
+Content Type: text/html
+
+Uri: https://nongsan2.webtudong8giay.com/danh-muc/cac-loai-rau-cu-qua-oragnic/ca-chua/feed/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\danh-muc\cac-loai-rau-cu-qua-oragnic\ca-chua\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nongsan2.webtudong8giay.com/danh-muc/cac-loai-rau-cu-qua-oragnic/carot/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\danh-muc\cac-loai-rau-cu-qua-oragnic\carot\index.htm
+Content Type: text/html
+
+Uri: https://nongsan2.webtudong8giay.com/danh-muc/cac-loai-rau-cu-qua-oragnic/carot/feed/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\danh-muc\cac-loai-rau-cu-qua-oragnic\carot\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nongsan2.webtudong8giay.com/danh-muc/cac-loai-rau-cu-qua-oragnic/khoai-tay/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\danh-muc\cac-loai-rau-cu-qua-oragnic\khoai-tay\index.htm
+Content Type: text/html
+
+Uri: https://nongsan2.webtudong8giay.com/danh-muc/cac-loai-rau-cu-qua-oragnic/khoai-tay/feed/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\danh-muc\cac-loai-rau-cu-qua-oragnic\khoai-tay\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nongsan2.webtudong8giay.com/danh-muc/san-pham-khac/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\danh-muc\san-pham-khac\index.htm
+Content Type: text/html
+
+Uri: https://nongsan2.webtudong8giay.com/danh-muc/san-pham-khac/feed/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\danh-muc\san-pham-khac\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nongsan2.webtudong8giay.com/danh-muc/trai-cay-nhap-khau/chery/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\danh-muc\trai-cay-nhap-khau\chery\index.htm
+Content Type: text/html
+
+Uri: https://nongsan2.webtudong8giay.com/danh-muc/trai-cay-nhap-khau/chery/feed/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\danh-muc\trai-cay-nhap-khau\chery\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nongsan2.webtudong8giay.com/danh-muc/trai-cay-nhap-khau/nho-my/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\danh-muc\trai-cay-nhap-khau\nho-my\index.htm
+Content Type: text/html
+
+Uri: https://nongsan2.webtudong8giay.com/danh-muc/trai-cay-nhap-khau/nho-my/feed/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\danh-muc\trai-cay-nhap-khau\nho-my\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nongsan2.webtudong8giay.com/danh-muc/trai-cay-nhap-khau/tao-emvy/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\danh-muc\trai-cay-nhap-khau\tao-emvy\index.htm
+Content Type: text/html
+
+Uri: https://nongsan2.webtudong8giay.com/danh-muc/trai-cay-nhap-khau/tao-emvy/feed/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\danh-muc\trai-cay-nhap-khau\tao-emvy\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nongsan2.webtudong8giay.com/danh-muc/trai-cay-noi-dia/cam-organic/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\danh-muc\trai-cay-noi-dia\cam-organic\index.htm
+Content Type: text/html
+
+Uri: https://nongsan2.webtudong8giay.com/danh-muc/trai-cay-noi-dia/cam-organic/feed/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\danh-muc\trai-cay-noi-dia\cam-organic\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nongsan2.webtudong8giay.com/danh-muc/trai-cay-noi-dia/dua-hau/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\danh-muc\trai-cay-noi-dia\dua-hau\index.htm
+Content Type: text/html
+
+Uri: https://nongsan2.webtudong8giay.com/danh-muc/trai-cay-noi-dia/dua-hau/feed/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\danh-muc\trai-cay-noi-dia\dua-hau\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nongsan2.webtudong8giay.com/danh-muc/trai-cay-noi-dia/quyt-organic/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\danh-muc\trai-cay-noi-dia\quyt-organic\index.htm
+Content Type: text/html
+
+Uri: https://nongsan2.webtudong8giay.com/danh-muc/trai-cay-noi-dia/quyt-organic/feed/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\danh-muc\trai-cay-noi-dia\quyt-organic\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nongsan2.webtudong8giay.com/eat-clean-bi-kip-de-co-than-hinh-xinh-nhu-mo-cua-co-nang-9x/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\eat-clean-bi-kip-de-co-than-hinh-xinh-nhu-mo-cua-co-nang-9x\index.htm
+Content Type: text/html
+
+Uri: https://nongsan2.webtudong8giay.com/eat-clean-bi-kip-de-co-than-hinh-xinh-nhu-mo-cua-co-nang-9x/feed/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\eat-clean-bi-kip-de-co-than-hinh-xinh-nhu-mo-cua-co-nang-9x\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nongsan2.webtudong8giay.com/feed/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nongsan2.webtudong8giay.com/ky-thuat-trong-rau-sach-trong-chau-xop-tai-nha-don-gian/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\ky-thuat-trong-rau-sach-trong-chau-xop-tai-nha-don-gian\index.htm
+Content Type: text/html
+
+Uri: https://nongsan2.webtudong8giay.com/ky-thuat-trong-rau-sach-trong-chau-xop-tai-nha-don-gian/feed/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\ky-thuat-trong-rau-sach-trong-chau-xop-tai-nha-don-gian\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nongsan2.webtudong8giay.com/lay-lai-vong-eo-con-kien-nho-cong-thuc-don-gian-tu-cu-dau-va-rau-cai/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\lay-lai-vong-eo-con-kien-nho-cong-thuc-don-gian-tu-cu-dau-va-rau-cai\index.htm
+Content Type: text/html
+
+Uri: https://nongsan2.webtudong8giay.com/lay-lai-vong-eo-con-kien-nho-cong-thuc-don-gian-tu-cu-dau-va-rau-cai/feed/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\lay-lai-vong-eo-con-kien-nho-cong-thuc-don-gian-tu-cu-dau-va-rau-cai\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nongsan2.webtudong8giay.com/mat-ong-rung-da-lat-giup-ban-lam-dep-the-nao/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\mat-ong-rung-da-lat-giup-ban-lam-dep-the-nao\index.htm
+Content Type: text/html
+
+Uri: https://nongsan2.webtudong8giay.com/mat-ong-rung-da-lat-giup-ban-lam-dep-the-nao/feed/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\mat-ong-rung-da-lat-giup-ban-lam-dep-the-nao\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nongsan2.webtudong8giay.com/san-pham/ca-chua-da-lat/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\san-pham\ca-chua-da-lat\index.htm
+Content Type: text/html
+
+Uri: https://nongsan2.webtudong8giay.com/san-pham/ca-chua-da-lat/?add-to-cart=762
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\san-pham\ca-chua-da-lat\index-1.htm
+Content Type: text/html
+
+Uri: https://nongsan2.webtudong8giay.com/san-pham/ca-chua-da-lat/?add-to-cart=766
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\san-pham\ca-chua-da-lat\index-3.htm
+Content Type: text/html
+
+Uri: https://nongsan2.webtudong8giay.com/san-pham/ca-chua-da-lat/?add-to-cart=770
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\san-pham\ca-chua-da-lat\index-2.htm
+Content Type: text/html
+
+Uri: https://nongsan2.webtudong8giay.com/san-pham/tao-nhap-khau/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\san-pham\tao-nhap-khau\index.htm
+Content Type: text/html
+
+Uri: https://nongsan2.webtudong8giay.com/san-pham/tao-nhap-khau/?add-to-cart=766
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\san-pham\tao-nhap-khau\index-2.htm
+Content Type: text/html
+
+Uri: https://nongsan2.webtudong8giay.com/san-pham/tao-nhap-khau/?add-to-cart=770
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\san-pham\tao-nhap-khau\index-1.htm
+Content Type: text/html
+
+Uri: https://nongsan2.webtudong8giay.com/san-pham/tao-nhap-khau/?add-to-cart=82
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\san-pham\tao-nhap-khau\index-3.htm
+Content Type: text/html
+
+Uri: https://nongsan2.webtudong8giay.com/san-pham/vai-nhap-khau/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\san-pham\vai-nhap-khau\index.htm
+Content Type: text/html
+
+Uri: https://nongsan2.webtudong8giay.com/san-pham/vai-nhap-khau/?add-to-cart=762
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\san-pham\vai-nhap-khau\index-1.htm
+Content Type: text/html
+
+Uri: https://nongsan2.webtudong8giay.com/san-pham/vai-nhap-khau/?add-to-cart=770
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\san-pham\vai-nhap-khau\index-3.htm
+Content Type: text/html
+
+Uri: https://nongsan2.webtudong8giay.com/san-pham/vai-nhap-khau/?add-to-cart=82
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\san-pham\vai-nhap-khau\index-2.htm
+Content Type: text/html
+
+Uri: https://nongsan2.webtudong8giay.com/tai-khoan/lost-password/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\tai-khoan\lost-password\index.htm
+Content Type: text/html
+
+Uri: https://nongsan2.webtudong8giay.com/trang-chu/feed/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\trang-chu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nongsan2.webtudong8giay.com/tu-khoa/ca-chua-da-lat/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\tu-khoa\ca-chua-da-lat\index.htm
+Content Type: text/html
+
+Uri: https://nongsan2.webtudong8giay.com/tu-khoa/ca-chua-da-lat/?add-to-cart=762
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\tu-khoa\ca-chua-da-lat\index-3.htm
+Content Type: text/html
+
+Uri: https://nongsan2.webtudong8giay.com/tu-khoa/ca-chua-da-lat/?add-to-cart=766
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\tu-khoa\ca-chua-da-lat\index-4.htm
+Content Type: text/html
+
+Uri: https://nongsan2.webtudong8giay.com/tu-khoa/ca-chua-da-lat/?add-to-cart=770
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\tu-khoa\ca-chua-da-lat\index-1.htm
+Content Type: text/html
+
+Uri: https://nongsan2.webtudong8giay.com/tu-khoa/ca-chua-da-lat/?add-to-cart=82
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\tu-khoa\ca-chua-da-lat\index-2.htm
+Content Type: text/html
+
+Uri: https://nongsan2.webtudong8giay.com/tu-khoa/ca-chua-da-lat/feed/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\tu-khoa\ca-chua-da-lat\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nongsan2.webtudong8giay.com/tu-khoa/tao-nhap-khau/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\tu-khoa\tao-nhap-khau\index.htm
+Content Type: text/html
+
+Uri: https://nongsan2.webtudong8giay.com/tu-khoa/tao-nhap-khau/?add-to-cart=762
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\tu-khoa\tao-nhap-khau\index-1.htm
+Content Type: text/html
+
+Uri: https://nongsan2.webtudong8giay.com/tu-khoa/tao-nhap-khau/feed/
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\tu-khoa\tao-nhap-khau\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://nongsan2.webtudong8giay.com/wp-admin/js/password-strength-meter.min.js?ver=6.1
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-admin\js\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.4
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/plugins/devvn-quick-buy/css/devvn-quick-buy.css?ver=2.0.0
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\plugins\devvn-quick-buy\css\devvn-quick-buy.css
+Content Type: text/css
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/plugins/devvn-quick-buy/images/close.png
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\plugins\devvn-quick-buy\images\close.png
+Content Type: image/png
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/plugins/devvn-quick-buy/js/devvn-quick-buy.js?ver=2.0.0
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\plugins\devvn-quick-buy\js\devvn-quick-buy.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/plugins/devvn-quick-buy/js/jquery.bpopup.min.js?ver=2.0.0
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\plugins\devvn-quick-buy\js\jquery.bpopup.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/plugins/devvn-quick-buy/js/jquery.validate.min.js?ver=2.0.0
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\plugins\devvn-quick-buy\js\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.min.css?ver=7.1.0
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.min.css
+Content Type: text/css
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.png
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.png
+Content Type: image/png
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.svg
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.svg
+Content Type: image/svg+xml
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/preloader.gif
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\preloader.gif
+Content Type: image/gif
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/photoswipe.min.css?ver=7.1.0
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\photoswipe.min.css
+Content Type: text/css
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/select2.css?ver=7.1.0
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\select2.css
+Content Type: text/css
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart-variation.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/lost-password.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\lost-password.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\single-product.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.7.1.0
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.7.1.0
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe-ui-default.min.js?ver=4.1.1-wc.7.1.0
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe-ui-default.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe.min.js?ver=4.1.1-wc.7.1.0
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.9-wc.7.1.0
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\selectWoo\selectWoo.full.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/blocks-checkout.js?ver=1aeb3f9cd2b4952d3b7c658c3ac54767
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\blocks-checkout.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/cart-frontend.js?ver=6d77f57ad4d2f28e9fae7e9327b354c9
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\cart-frontend.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/checkout-frontend.js?ver=a4392447bf571a544c579a23dd39b854
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\checkout-frontend.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/price-format.js?ver=e99bed7a5cf7f43aadbce4396ccbcc5e
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\price-format.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-data.js?ver=7318f17e99fb56cda4dd7e6fbc16db3c
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-data.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-middleware.js?ver=cfefc68c23f627155c81d4aa8d2dbf3c
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-middleware.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-registry.js?ver=b6339851784e6ad947a8015afb8847ff
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-registry.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-shared-context.js?ver=65e3c38669e82f3ed75ea378b29997f0
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-shared-context.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-shared-hocs.js?ver=55647c9b478bc30776b5c52dc41b4954
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-shared-hocs.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=8.7.5
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-style.css
+Content Type: text/css
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=8.7.5
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-vendors-style.css
+Content Type: text/css
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-settings.js?ver=7b2188da90828d22e68dae2a8129bd03
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-settings.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/themes/flatsome-child/style.css?ver=3.11.3
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\themes\flatsome-child\style.css
+Content Type: text/css
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.12
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\themes\flatsome\assets\css\fl-icons.css
+Content Type: text/css
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome-shop.css?ver=3.13.3
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome-shop.css
+Content Type: text/css
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.13.3
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/x-font-woff
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: 
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\themes\flatsome\assets\js\woocommerce.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-lazy-load/flatsome-lazy-load.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-lazy-load\flatsome-lazy-load.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/uploads/2019/01/banner-02-300x167.jpg
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\uploads\2019\01\banner-02-300x167.jpg
+Content Type: image/jpeg
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/uploads/2019/01/banner-02.jpg
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\uploads\2019\01\banner-02.jpg
+Content Type: image/jpeg
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/uploads/2019/01/blog-img-6.jpg
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\uploads\2019\01\blog-img-6.jpg
+Content Type: image/jpeg
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/uploads/2019/01/eat-clean-bi-kip-de-co-than-hinh-xinh-nhu-mo-cua-co-nang-9x-1.jpg
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\uploads\2019\01\eat-clean-bi-kip-de-co-than-hinh-xinh-nhu-mo-cua-co-nang-9x-1.jpg
+Content Type: image/jpeg
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/uploads/2019/01/km-thang-giai-phong-mo-thua-da-xau-doc-to-trong-co-the.png
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\uploads\2019\01\km-thang-giai-phong-mo-thua-da-xau-doc-to-trong-co-the.png
+Content Type: image/png
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/uploads/2019/01/lay-lai-vong-eo-con-kien-nho-cong-thuc-don-gian-tu-cu-dau-va-rau-cai.jpg
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\uploads\2019\01\lay-lai-vong-eo-con-kien-nho-cong-thuc-don-gian-tu-cu-dau-va-rau-cai.jpg
+Content Type: image/jpeg
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/uploads/2019/01/Screenshot_1-100x100.png
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\uploads\2019\01\Screenshot_1-100x100.png
+Content Type: image/png
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/uploads/2019/01/Screenshot_1-247x296.png
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\uploads\2019\01\Screenshot_1-247x296.png
+Content Type: image/png
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/uploads/2019/01/Screenshot_1.png
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\uploads\2019\01\Screenshot_1.png
+Content Type: image/png
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/uploads/2019/01/Screenshot_2-100x100.png
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\uploads\2019\01\Screenshot_2-100x100.png
+Content Type: image/png
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/uploads/2019/01/Screenshot_2-247x296.png
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\uploads\2019\01\Screenshot_2-247x296.png
+Content Type: image/png
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/uploads/2019/01/Screenshot_2.png
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\uploads\2019\01\Screenshot_2.png
+Content Type: image/png
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/uploads/2019/01/Screenshot_3-100x100.png
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\uploads\2019\01\Screenshot_3-100x100.png
+Content Type: image/png
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/uploads/2019/01/Screenshot_3-247x296.png
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\uploads\2019\01\Screenshot_3-247x296.png
+Content Type: image/png
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/uploads/2019/01/Screenshot_3.png
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\uploads\2019\01\Screenshot_3.png
+Content Type: image/png
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/uploads/2019/01/Screenshot_4.png
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\uploads\2019\01\Screenshot_4.png
+Content Type: image/png
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/uploads/2019/07/banner-home-1.png
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\uploads\2019\07\banner-home-1.png
+Content Type: image/png
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/uploads/2019/07/banner-main-002.png
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\uploads\2019\07\banner-main-002.png
+Content Type: image/png
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/uploads/2019/07/banner1.png
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\uploads\2019\07\banner1.png
+Content Type: image/png
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/uploads/2019/07/banner2.png
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\uploads\2019\07\banner2.png
+Content Type: image/png
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/uploads/2019/07/banner3.png
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\uploads\2019\07\banner3.png
+Content Type: image/png
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/uploads/2019/07/cropped-halonalogots-180x180.png
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\uploads\2019\07\cropped-halonalogots-180x180.png
+Content Type: image/png
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/uploads/2019/07/cropped-halonalogots-192x192.png
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\uploads\2019\07\cropped-halonalogots-192x192.png
+Content Type: image/png
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/uploads/2019/07/cropped-halonalogots-32x32.png
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\uploads\2019\07\cropped-halonalogots-32x32.png
+Content Type: image/png
+
+Uri: https://nongsan2.webtudong8giay.com/wp-content/uploads/2019/07/halonalogo.png
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-content\uploads\2019\07\halonalogo.png
+Content Type: image/png
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/css/classic-themes.min.css?ver=1
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/css/dist/block-library/style.min.css?ver=6.0.2
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\css\dist\block-library\style.min-1.css
+Content Type: text/css
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/dist/a11y.min.js?ver=ecce20f002eda4c19664
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\dist\a11y.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/dist/api-fetch.min.js?ver=bc0029ca2c943aec5311
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\dist\api-fetch.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/dist/autop.min.js?ver=43197d709df445ccf849
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\dist\autop.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/dist/blob.min.js?ver=a078f260190acf405764
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\dist\blob.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/dist/block-editor.min.js?ver=d39738cb7c1202964677
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\dist\block-editor.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/dist/block-serialization-default-parser.min.js?ver=eb2cdc8cd7a7975d49d9
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\dist\block-serialization-default-parser.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/dist/blocks.min.js?ver=69022aed79bfd45b3b1d
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\dist\blocks.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/dist/components.min.js?ver=57b49a5bb19d1f1d566a
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\dist\components.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/dist/compose.min.js?ver=37228270687b2a94e518
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\dist\compose.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/dist/data-controls.min.js?ver=e10d473d392daa8501e8
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\dist\data-controls.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/dist/data.min.js?ver=d8cf5b24f99c64ae47d6
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\dist\data.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/dist/date.min.js?ver=ce7daf24092d87ff18be
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\dist\date.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/dist/deprecated.min.js?ver=6c963cb9494ba26b77eb
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\dist\deprecated.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/dist/dom-ready.min.js?ver=392bdd43726760d1f3ca
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\dist\dom-ready.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/dist/dom.min.js?ver=133a042fbbef48f38107
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\dist\dom.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/dist/element.min.js?ver=47162ff4492c7ec4956b
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\dist\element.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/dist/escape-html.min.js?ver=03e27a7b6ae14f7afaa6
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\dist\escape-html.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/dist/html-entities.min.js?ver=36a4a255da7dd2e1bf8e
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\dist\html-entities.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/dist/is-shallow-equal.min.js?ver=20c2b06ecf04afb14fee
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\dist\is-shallow-equal.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/dist/keyboard-shortcuts.min.js?ver=b696c16720133edfc065
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\dist\keyboard-shortcuts.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/dist/keycodes.min.js?ver=6e0aadc0106bd8aadc89
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\dist\keycodes.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/dist/notices.min.js?ver=9c1575b7a31659f45a45
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\dist\notices.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/dist/plugins.min.js?ver=0d1b90278bae7df6ecf9
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\dist\plugins.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/dist/primitives.min.js?ver=ae0bece54c0487c976b1
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\dist\primitives.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/dist/priority-queue.min.js?ver=99e325da95c5a35c7dc2
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\dist\priority-queue.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/dist/redux-routine.min.js?ver=c9ea6c0df793258797e6
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\dist\redux-routine.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/dist/rich-text.min.js?ver=c704284bebe26cf1dd51
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\dist\rich-text.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/dist/shortcode.min.js?ver=7539044b04e6bca57f2e
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\dist\shortcode.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/dist/style-engine.min.js?ver=10341d6e6decffab850e
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\dist\style-engine.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/dist/token-list.min.js?ver=f2cf0bb3ae80de227e43
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\dist\token-list.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/dist/url.min.js?ver=bb0ef862199bcae73aa7
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\dist\url.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/dist/vendor/lodash.min.js?ver=4.17.19
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\dist\vendor\lodash.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/dist/vendor/moment.min.js?ver=2.29.4
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\dist\vendor\moment.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/dist/vendor/react-dom.min.js?ver=17.0.1
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\dist\vendor\react-dom.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/dist/vendor/react.min.js?ver=17.0.1
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\dist\vendor\react.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/dist/warning.min.js?ver=4acee5fc2fd9a24cefc2
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\dist\warning.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/dist/wordcount.min.js?ver=feb9569307aec24292f2
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\dist\wordcount.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\jquery\jquery.min-1.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/underscore.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/underscore.min.js?ver=1.13.4
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\underscore.min-1.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/wp-util.min.js?ver=6.0.2
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/wp-util.min.js?ver=6.1
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\wp-util.min-1.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\js\zxcvbn-async.min.js
+Content Type: application/javascript
+
+Uri: https://nongsan2.webtudong8giay.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://nongsan2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnongsan2.webtudong8giay.com%2Feat-clean-bi-kip-de-co-than-hinh-xinh-nhu-mo-cua-co-nang-9x%2F
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://nongsan2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnongsan2.webtudong8giay.com%2Feat-clean-bi-kip-de-co-than-hinh-xinh-nhu-mo-cua-co-nang-9x%2F&format=xml
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://nongsan2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnongsan2.webtudong8giay.com%2Fky-thuat-trong-rau-sach-trong-chau-xop-tai-nha-don-gian%2F
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://nongsan2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnongsan2.webtudong8giay.com%2Fky-thuat-trong-rau-sach-trong-chau-xop-tai-nha-don-gian%2F&format=xml
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://nongsan2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnongsan2.webtudong8giay.com%2Flay-lai-vong-eo-con-kien-nho-cong-thuc-don-gian-tu-cu-dau-va-rau-cai%2F
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://nongsan2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnongsan2.webtudong8giay.com%2Flay-lai-vong-eo-con-kien-nho-cong-thuc-don-gian-tu-cu-dau-va-rau-cai%2F&format=xml
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://nongsan2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnongsan2.webtudong8giay.com%2Fmat-ong-rung-da-lat-giup-ban-lam-dep-the-nao%2F
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://nongsan2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnongsan2.webtudong8giay.com%2Fmat-ong-rung-da-lat-giup-ban-lam-dep-the-nao%2F&format=xml
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://nongsan2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnongsan2.webtudong8giay.com%2Fsan-pham%2Fca-chua-da-lat%2F
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://nongsan2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnongsan2.webtudong8giay.com%2Fsan-pham%2Fca-chua-da-lat%2F&format=xml
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://nongsan2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnongsan2.webtudong8giay.com%2Fsan-pham%2Ftao-nhap-khau%2F
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://nongsan2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnongsan2.webtudong8giay.com%2Fsan-pham%2Ftao-nhap-khau%2F&format=xml
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://nongsan2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnongsan2.webtudong8giay.com%2Fsan-pham%2Fvai-nhap-khau%2F
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://nongsan2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnongsan2.webtudong8giay.com%2Fsan-pham%2Fvai-nhap-khau%2F&format=xml
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://nongsan2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnongsan2.webtudong8giay.com%2Ftai-khoan%2F
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://nongsan2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fnongsan2.webtudong8giay.com%2Ftai-khoan%2F&format=xml
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://nongsan2.webtudong8giay.com/wp-json/wp/v2/categories/1
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: https://nongsan2.webtudong8giay.com/wp-json/wp/v2/categories/23
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-json\wp\v2\categories\23
+Content Type: application/json
+
+Uri: https://nongsan2.webtudong8giay.com/wp-json/wp/v2/categories/24
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-json\wp\v2\categories\24
+Content Type: application/json
+
+Uri: https://nongsan2.webtudong8giay.com/wp-json/wp/v2/pages/28
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-json\wp\v2\pages\28
+Content Type: application/json
+
+Uri: https://nongsan2.webtudong8giay.com/wp-json/wp/v2/posts/187
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-json\wp\v2\posts\187
+Content Type: application/json
+
+Uri: https://nongsan2.webtudong8giay.com/wp-json/wp/v2/posts/253
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-json\wp\v2\posts\253
+Content Type: application/json
+
+Uri: https://nongsan2.webtudong8giay.com/wp-json/wp/v2/posts/255
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-json\wp\v2\posts\255
+Content Type: application/json
+
+Uri: https://nongsan2.webtudong8giay.com/wp-json/wp/v2/posts/257
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-json\wp\v2\posts\257
+Content Type: application/json
+
+Uri: https://nongsan2.webtudong8giay.com/wp-json/wp/v2/product/762
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-json\wp\v2\product\762
+Content Type: application/json
+
+Uri: https://nongsan2.webtudong8giay.com/wp-json/wp/v2/product/766
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-json\wp\v2\product\766
+Content Type: application/json
+
+Uri: https://nongsan2.webtudong8giay.com/wp-json/wp/v2/product/82
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-json\wp\v2\product\82
+Content Type: application/json
+
+Uri: https://nongsan2.webtudong8giay.com/wp-json/wp/v2/product_cat/35
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-json\wp\v2\product_cat\35
+Content Type: application/json
+
+Uri: https://nongsan2.webtudong8giay.com/wp-json/wp/v2/product_cat/47
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-json\wp\v2\product_cat\47
+Content Type: application/json
+
+Uri: https://nongsan2.webtudong8giay.com/wp-json/wp/v2/product_cat/48
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-json\wp\v2\product_cat\48
+Content Type: application/json
+
+Uri: https://nongsan2.webtudong8giay.com/wp-json/wp/v2/product_cat/49
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-json\wp\v2\product_cat\49
+Content Type: application/json
+
+Uri: https://nongsan2.webtudong8giay.com/wp-json/wp/v2/product_cat/50
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-json\wp\v2\product_cat\50
+Content Type: application/json
+
+Uri: https://nongsan2.webtudong8giay.com/wp-json/wp/v2/product_cat/51
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-json\wp\v2\product_cat\51
+Content Type: application/json
+
+Uri: https://nongsan2.webtudong8giay.com/wp-json/wp/v2/product_cat/52
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-json\wp\v2\product_cat\52
+Content Type: application/json
+
+Uri: https://nongsan2.webtudong8giay.com/wp-json/wp/v2/product_cat/53
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-json\wp\v2\product_cat\53
+Content Type: application/json
+
+Uri: https://nongsan2.webtudong8giay.com/wp-json/wp/v2/product_cat/54
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-json\wp\v2\product_cat\54
+Content Type: application/json
+
+Uri: https://nongsan2.webtudong8giay.com/wp-json/wp/v2/product_cat/55
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-json\wp\v2\product_cat\55
+Content Type: application/json
+
+Uri: https://nongsan2.webtudong8giay.com/wp-json/wp/v2/product_cat/56
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-json\wp\v2\product_cat\56
+Content Type: application/json
+
+Uri: https://nongsan2.webtudong8giay.com/wp-json/wp/v2/product_cat/57
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-json\wp\v2\product_cat\57
+Content Type: application/json
+
+Uri: https://nongsan2.webtudong8giay.com/wp-json/wp/v2/product_cat/58
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-json\wp\v2\product_cat\58
+Content Type: application/json
+
+Uri: https://nongsan2.webtudong8giay.com/wp-json/wp/v2/product_tag/59
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-json\wp\v2\product_tag\59
+Content Type: application/json
+
+Uri: https://nongsan2.webtudong8giay.com/wp-json/wp/v2/product_tag/60
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-json\wp\v2\product_tag\60
+Content Type: application/json
+
+Uri: https://nongsan2.webtudong8giay.com/wp-json/wp/v2/users/1
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\wp-json\wp\v2\users\1
+Content Type: application/json
+
+Uri: https://nongsan2.webtudong8giay.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\xmlrpc.php.html
+Content Type: text/html
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/css/all.css?ver=2.0.2
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\releases\v5.15.4\css\all.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/css/v4-shims.css?ver=2.0.2
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\releases\v5.15.4\css\v4-shims.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\releases\v5.15.4\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\releases\v5.15.4\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\releases\v5.15.4\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\releases\v5.15.4\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\releases\v5.15.4\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\releases\v5.15.4\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\releases\v5.15.4\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\releases\v5.15.4\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\releases\v5.15.4\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\releases\v5.15.4\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\releases\v5.15.4\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\releases\v5.15.4\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\releases\v5.15.4\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\releases\v5.15.4\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\releases\v5.15.4\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\releases\v5.15.4\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\releases\v5.15.4\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\nongsan2.webtudong8giay.com\releases\v5.15.4\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
